@@ -51,8 +51,7 @@ with st.sidebar:
         st.sidebar.write("""
         - Osama SAAD
         - Data Scaience & Machine Learning Student @:blue[Epsilon AI]
-        - Infor ERP Consaltant @ Ibnsina Pharma
-        - Email : osamasamnudi86@gamil.com
+        - Infor ERP (EAM/M3/IDM) key Business.User | DMS, Assets and System Control Supervisor @ Ibnsina Pharma
         - LinkedIn: 
             https://www.linkedin.com/in/ossama-ahmed-saad-525785b2
         - Github : 
